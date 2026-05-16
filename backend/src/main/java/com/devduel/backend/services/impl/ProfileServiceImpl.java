@@ -10,6 +10,7 @@ import com.devduel.backend.repositories.RoomParticipantRepository;
 import com.devduel.backend.repositories.RoomRepository;
 import com.devduel.backend.repositories.UserRepository;
 import com.devduel.backend.services.interfaces.ProfileService;
+import com.devduel.backend.services.interfaces.GitHubService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
